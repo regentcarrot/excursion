@@ -6,6 +6,19 @@ body{
 
 }
 
+.header--main{
+color:cornsilk;
+font-weight: normal;
+font-size: 50px;
+
+}
+
+.link--cta{
+font-size: 16px;
+color:aquamarine;
+
+
+}
 
 h1{
 
